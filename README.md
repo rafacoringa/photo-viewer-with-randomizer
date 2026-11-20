@@ -34,6 +34,6 @@ Although the dev is an atheist and not a fan of esoteric divination practices: a
 
 ## Screenshots
 
-![Photo viewer and randomizer interface](/images/visualizador%20image%20wiki%20b.png)
+![Photo viewer and randomizer interface](/visualizador%20image%20wiki%20b.png)
 
-![Search and exclusion filters](/images/visualizador%20filtros.png)
+![Search and exclusion filters](/visualizador%20filtros.png)
